@@ -1,0 +1,74 @@
+h1 {
+    font-size: 40px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #4A789E;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+h3 {
+    color: #F2A654;
+    padding-top: 50px;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+h4 {
+    color: #F2A654;
+    padding-top: 50px;
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    padding: 10px;
+    width: 45%;
+
+
+}
+
+p {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+
+.columnas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+    border: none;
+    max-width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.profesionalidad {
+    width: 60%;
+}
+
+.cariño {
+    padding-bottom: 0px;
+}

@@ -1,0 +1,105 @@
+hr {
+    height: 5px;
+    background-color: #ff8400;
+    width: 100px;
+    border: none;
+    margin-left: 20px;
+
+
+}
+
+h2 {
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #4A789E;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+
+h1 {
+    font-size: 40px;
+    padding-bottom: 20px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #4A789E;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h3 {
+    color: #F2A654;
+    padding-top: 50px;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.carrusel {
+    max-width: 500px;
+
+}
+
+.testimonios {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.texto {
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    padding-top: 40px;
+
+}
+
+p {
+    padding-left: 20px;
+}
+
+
+.flecha {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+
+
+
+
+}
+
+svg {
+    text-align: center;
+    margin: 0;
+    width: 30px;
+    height: 30px;
+    fill: black;
+
+
+}
+
+.arriba {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+}
+
+
+svg:hover {
+    text-align: center;
+    margin: 0;
+    width: 30px;
+    height: 30px;
+    fill: #F2A654
+}

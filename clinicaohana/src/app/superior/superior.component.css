@@ -1,0 +1,139 @@
+nav {
+    background-color: #4A789E;
+
+}
+
+svg {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+svg:hover {
+    color: #7aa3c4;
+}
+
+button {
+    background-color: #4A789E;
+    color: #ffffff;
+    margin-right: 10px;
+    border-style: 1px solid;
+    border-color: #ffffff;
+    border-radius: 30px;
+
+}
+
+button:hover {
+    background-color: white;
+    color: #114861;
+    border-style: 1px solid;
+    border-color: #7aa3c4;
+    border-radius: 30px;
+
+}
+
+.cerrar:hover {
+    background-color: #114861;
+    color: white;
+    border-style: 1px solid;
+    border-color: #7aa3c4;
+    border-radius: 30px;
+    border-style: 1px solid;
+    border-color: #ffffff;
+}
+
+button:active {
+    background-color: #4A789E;
+    color: #ffffff;
+    margin-right: 10px;
+    border-style: 1px solid;
+    border-color: #ffffff;
+    border-radius: 30px;
+
+}
+
+.urgencias {
+    background-color: #7aa3c4;
+}
+
+.cabecera {
+    background-color: #4A789E;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.modal-title {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+img {
+    max-width: 400px;
+    max-height: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+
+h1 {
+    color: white;
+    font-weight: 600;
+
+
+}
+
+h2 {
+    color: white;
+    letter-spacing: 10px;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+h3 {
+    font-weight: 600;
+    color: white;
+
+}
+
+
+p {
+    width: 100%;
+    color: white;
+}
+
+.menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.redes {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.popup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+.texto {
+    width: 100%;
+    padding-left: 20px;
+}

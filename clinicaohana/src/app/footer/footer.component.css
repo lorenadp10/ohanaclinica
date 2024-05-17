@@ -1,0 +1,78 @@
+img {
+    width: 50%;
+    height: auto;
+}
+
+p {
+    color: white;
+    padding: -10px;
+    text-align: center;
+
+}
+
+button {
+    background-color: #4A789E;
+    color: #ffffff;
+    margin-right: 10px;
+    border-style: 1px solid;
+    border-color: #ffffff;
+    border-radius: 30px;
+
+}
+
+button:hover {
+    background-color: #7aa3c4;
+    color: #114861;
+    border-style: 1px solid;
+    border-color: #7aa3c4;
+    border-radius: 30px;
+
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+
+}
+
+h2 {
+    color: white
+}
+
+h3 {
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #93A8D1;
+    margin: 0;
+
+}
+
+.datos {
+    width: 100%;
+}
+
+#politicas {
+    width: 100%;
+    margin: 0;
+}
+
+hr {
+    height: 3px;
+    background-color: white;
+    width: 100%;
+    border: none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0px;
+    margin: 0px;
+}

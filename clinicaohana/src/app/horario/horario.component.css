@@ -1,0 +1,163 @@
+img {
+    padding: 50px;
+    max-height: 500px;
+    max-width: 500px;
+
+
+}
+
+p {
+    padding-right: 20px;
+    padding-left: 30px;
+    color: #114861;
+}
+
+
+
+h2 {
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-weight: 600;
+    color: white;
+    font-size: 40px;
+}
+
+
+h3 {
+    color: #4A789E;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 5px;
+    padding-left: 20px;
+    padding-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: left;
+
+
+}
+
+
+
+
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+hr {
+    height: 5px;
+    background-color: white;
+    width: 100px;
+    border: none;
+    margin-left: 20px;
+
+
+}
+
+.contacto {
+    background-color: #93A8D1;
+
+
+}
+
+
+
+.contacto {
+    margin: 0;
+}
+
+#horario {
+    margin: 0;
+    width: 100%;
+
+}
+
+button {
+
+    color: #ffffff;
+    background-color: #93A8D1;
+    width: 200px;
+    margin-right: 20px;
+    border-style: 1px solid;
+    border-color: #ffffff;
+    border-radius: 30px;
+
+}
+
+button:hover {
+    background-color: white;
+    color: #114861;
+    border-style: 1px solid;
+    border-color: #7aa3c4;
+    border-radius: 30px;
+
+}
+
+.urgencias {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: #114861;
+    width: 100%;
+    padding-top: 30px;
+
+
+
+}
+
+.texto {
+    color: white;
+}
+
+#llamar {
+    background-color: #114861;
+
+}
+
+#llamar:hover {
+    color: white;
+    background-color: #7aa3c4;
+
+}
+
+.azul {
+    width: 100%;
+    margin: 0;
+}
+
+#ayudarte {
+    padding: -20px;
+    margin: -30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#horas {
+    text-align: center;
+    display: flex;
+    margin-bottom: 0px;
+    justify-content: center;
+    color: white;
+}
+
+#lineaUrgencias {
+    padding: 0px;
+    margin: 0px;
+}
+
+#calle {
+    color: white;
+    font-size: 20px;
+}

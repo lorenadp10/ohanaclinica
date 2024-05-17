@@ -1,0 +1,63 @@
+.clinica {
+
+    text-align: center;
+    padding: 30px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.medio {
+    max-width: 320px;
+    padding: 20px;
+}
+
+.prueba {
+    padding: 0px;
+    margin: 0px;
+}
+
+h3 {
+    color: #F2A654;
+    padding-top: 50px;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+h2 {
+    color: #4A789E;
+    font-weight: 700;
+}
+
+p {
+    padding: 20px;
+}
+
+.bloque {
+    background-color: bisque;
+}
+
+.texto {
+    padding: 40px;
+}
+
+.destacado {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+b {
+    color: #93A8D1;
+
+}
