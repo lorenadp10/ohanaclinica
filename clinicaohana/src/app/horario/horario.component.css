@@ -65,19 +65,18 @@ hr {
 
 .contacto {
     background-color: #93A8D1;
-
-
-}
-
-
-
-.contacto {
     margin: 0;
+
+
 }
+
+
 
 #horario {
     margin: 0;
     width: 100%;
+    display: flex;
+    align-items: left;
 
 }
 

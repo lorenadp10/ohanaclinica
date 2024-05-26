@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+
 import { MenuComponent } from './menu/menu.component';
 import { CabeceraComponent } from './cabecera/cabecera.component';
 import { EquipoComponent } from './equipo/equipo.component';
