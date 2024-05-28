@@ -36,7 +36,7 @@ h1 {
 h3 {
     color: #F2A654;
     padding-top: 50px;
-    padding-left: 40px;
+    padding-left: 50px;
     font-weight: 600;
     font-size: 15px;
     letter-spacing: 5px;
@@ -45,6 +45,14 @@ h3 {
     justify-content: center;
 
 }
+
+@media (max-width: 600px) {
+    h3 {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+}
+
 
 .bloque {
     display: flex;
@@ -66,7 +74,7 @@ h3 {
 
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     .fila {
         flex-direction: column-reverse;
     }

@@ -33,6 +33,13 @@ h3 {
 
 }
 
+@media (max-width: 600px) {
+    .clinica {
+        padding-top: 0px;
+        margin-top: 0px;
+    }
+}
+
 h2 {
     color: #4A789E;
     font-weight: 700;

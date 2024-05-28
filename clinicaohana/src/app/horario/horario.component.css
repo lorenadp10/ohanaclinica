@@ -71,6 +71,11 @@ hr {
 }
 
 
+@media (max-width: 600px) {
+    .llegar {
+        margin-left: 30px;
+    }
+}
 
 #horario {
     margin: 0;

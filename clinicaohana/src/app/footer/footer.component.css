@@ -76,3 +76,19 @@ hr {
     padding: 0px;
     margin: 0px;
 }
+
+
+@media (max-width: 600px) {
+    .horizontal {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.contenido {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}

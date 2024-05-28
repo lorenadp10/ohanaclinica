@@ -103,3 +103,9 @@ svg:hover {
     height: 30px;
     fill: #F2A654
 }
+
+@media (max-width: 600px) {
+    .fila {
+        flex-direction: column-reverse;
+    }
+}
